@@ -18,7 +18,7 @@ I am committed, adaptable, and eager to work collaboratively on complex semicond
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Technical Skills
+# Technical Skills
 
 - **Operating Systems:** Windows, Linux, UNIX  
 - **Languages:** C, Verilog, SystemVerilog, Shell Scripting, Perl  
@@ -30,16 +30,16 @@ I am committed, adaptable, and eager to work collaboratively on complex semicond
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Key Projects
+# Key Projects
 
-# 1. **Approximate Multiplier Design**
+## 1. **Approximate Multiplier Design**
 - Designed a **low-power approximate multiplier** optimized for area, gate count, power, and delay.
 - Performed **gate-level simulations, synthesis, and timing analysis** for arithmetic accuracy.
 - Evaluated **accuracy–performance trade-offs** for power-efficient embedded computing.
 
 -----------------
 
-# 2. **Design and Verification of Floating-Point Unit (FPU) for RISC-V**
+## 2. **Design and Verification of Floating-Point Unit (FPU) for RISC-V**
 - Developed an **IEEE-754 compliant 32-bit FPU** in SystemVerilog.
 - Supported: **Add, Subtract, Multiply, Divide, Square Root, Compare, Fused Multiply-Add (FMA)**.
 - Verified using **UVM-style testbench**, assertions, random/directed test cases, and coverage metrics.
@@ -47,28 +47,28 @@ I am committed, adaptable, and eager to work collaboratively on complex semicond
 
 -----------------
 
-# 3. **AMBA APB Protocol Design and Verification**
+## 3. **AMBA APB Protocol Design and Verification**
 - Designed and verified the **APB protocol** using SystemVerilog.
 - Created **APB master/slave** modules to simulate read/write operations.
 - Used **assertions, coverage**, and waveform analysis to ensure **protocol compliance** and timing correctness.
 
 -----------------
 
-# 4. **Physical Design of SPI Protocol**
+## 4. **Physical Design of SPI Protocol**
 - Performed **full Physical Design (PD)** of the SPI protocol using **Cadence Innovus**.
 - Involved in **floorplanning, placement, CTS, routing, and signoff (DRC/LVS)**.
 - Optimized **timing (setup/hold), congestion, and area** using early global route and placement optimization.
 
 -----------------
 
-# 5. **Physical Design of UART with Integrated FIFO**
+## 5. **Physical Design of UART with Integrated FIFO**
 - Implemented PD flow for a **UART module with FIFO** for efficient serial communication.
 - Handled **floorplan, placement, CTS, routing**, and complete **signoff checks (DRC, LVS, IR drop, STA)**.
 - Achieved reliable integration-ready design with **minimal violations** and **optimized area/timing**.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Contact
+# Contact
 
 - **Name:** Harsha C  
 - **Email:** harsha.c0746@gmail.com  
