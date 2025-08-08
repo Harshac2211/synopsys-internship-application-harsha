@@ -1,7 +1,7 @@
 # Synopsys Internship Application – Harsha C
 
 **Name:** Harsha C  
-**College:** Manipal School of Information Sciences (MSIS) , Manipal
+**College:** Manipal School of Information Sciences (MSIS) , Manipal.
 **Degrees:**  
   - Master of Engineering (M.E.) in VLSI Design  - 2025
   - Bachelor of Engineering (B.E.) in Electrical & Electronics Engineering (EEE) - 2023
